@@ -1,0 +1,8 @@
+URL :
+	http://localhost:8080/JspJavaExample/customer.jsp
+	
+	http://localhost:8080/JspJavaExample/insert.jsp
+	
+	
+	
+	DEFAULT SCOPE OF JSP IS SESSION ONLY
